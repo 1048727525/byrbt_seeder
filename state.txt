@@ -1,0 +1,3 @@
+ID     Done       Have  ETA           Up    Down  Ratio  Status       Name
+   1*  100%    4.96 GB  Done         0.0     0.0    0.0  Idle         The.Mandalorian.S01E01.INTERNAL.HDR.2160p.WEB.H265-DEFLATE.mkv
+Sum:           4.96 GB               0.0     0.0

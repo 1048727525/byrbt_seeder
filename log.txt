@@ -1,0 +1,16 @@
+******programmer begins at 2019-11-19/15:24:53******
+remote login address : http://127.0.0.1:9091/transmission/web/
+data is initializing
+max_seed_selected_num=4
+seed_select_strategy=0
+max_download_space=5.0GB
+download_prices=1
+data initializing is finished, costing 0.0014030933380126953s
+update seeds...
+<class 'pandas.core.frame.DataFrame'>
+the strategy is default
+res_seeds=['[BYRBT].The.Mandalorian.S01E01.INTERNAL.HDR.2160p.WEB.H265-DEFLATE.mkv.torrent']
+have used 4.62GB
+res_seeds=['The.Mandalorian.S01E01.INTERNAL.HDR.2160p.WEB.H265-DEFLATE.mkv']
+seeds_info=['The.Mandalorian.S01E01.INTERNAL.HDR.2160p.WEB.H265-DEFLATE.mkv']
+True
